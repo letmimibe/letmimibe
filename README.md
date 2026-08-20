@@ -1,4 +1,11 @@
 # Hey, I'm Demi! (or you can call me Mimi! 👀)
+![Python](https://img.shields.io/badge/Python-FFD6A5?style=for-the-badge&logo=python&logoColor=6B4423)
+![SQL](https://img.shields.io/badge/SQL-A0C4FF?style=for-the-badge&logo=postgresql&logoColor=1D3557)
+![Pandas](https://img.shields.io/badge/Pandas-BDB2FF?style=for-the-badge&logo=pandas&logoColor=3D2B56)
+![Tableau](https://img.shields.io/badge/Tableau-FFADAD?style=for-the-badge&logo=tableau&logoColor=7A2E2E)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-9BF6FF?style=for-the-badge&logo=looker&logoColor=1B4B4E)
+![GA4](https://img.shields.io/badge/GA4-CAFFBF?style=for-the-badge&logo=googleanalytics&logoColor=2D5B2D)
+
 
 Ex-brand, marketing, and growth strategist (most recently at Skylar) who fell down the data analytics rabbit hole and decided to stay. 
 
