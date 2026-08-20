@@ -7,7 +7,7 @@
 ![GA4](https://img.shields.io/badge/GA4-CAFFBF?style=for-the-badge&logo=googleanalytics&logoColor=2D5B2D)
 
 
-Ex-brand, marketing, and growth strategist (most recently at Skylar) who fell down the data analytics rabbit hole and decided to stay. 
+Ex-brand, marketing, and growth strategist (most recently at Silly Beast—Indonesian pet lifestyle brand) who fell down the data analytics rabbit hole and decided to stay. 
 
 While my past roles were outwardly about brand positioning and campaign execution, the real engine was always the analytical thought process behind them. I realized I liked digging into customer behavior, writing SQL queries, and building data models to prove *why* a strategy works way more than just writing campaign briefs.
 
