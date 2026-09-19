@@ -21,8 +21,6 @@ Full disclosure: for the longest time, my code lived in messy, private Google Co
 2. All of my previous projects were neatly organized in Git from day one.
 3. I was once a dog trainer.
 
-*(Hint: Number 2 is a complete lie. RIP to my old Colab notebooks.)*
-
 ### The Stack
 * **Analytics & Engineering:** Python (Pandas, NumPy, Lifetimes), SQL (SQLite, PostgreSQL)
 * **BI & Data Viz:** Tableau Public, Looker Studio, GA4
@@ -40,5 +38,4 @@ I am currently **Open to Work** for **Data Analyst** or **BI Analyst** positions
 * **Instagram:** [@letmimibe](https://www.instagram.com/letmimibe/)
 * **Convo Starters:**
   * Your favorite meme or your office's inside joke.
-  * Growth strategy vs. data analytics—how to bridge the gap.
-  * Your favorite Tableau formatting hacks or SQL join debates.
+  * Vibe coding, pro or contrast?
